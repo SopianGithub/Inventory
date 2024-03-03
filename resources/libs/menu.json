@@ -1,0 +1,46 @@
+{
+    "menus" : [
+    {
+        "name": "Search",
+        "link": "/",
+        "icon": "search",
+        "auth": "Admin"
+    },
+    {
+        "name": "Dashboard",
+        "link": "/dashboard",
+        "icon": "dashboard",
+        "auth": "Admin"
+    },
+    {
+        "name": "Inventory",
+        "link": "/inventory",
+        "icon": "inventory",
+        "auth": "Admin"
+    },
+    {
+        "name": "Reports",
+        "link": "/reports",
+        "icon": "reports",
+        "auth": "Admin"
+    },
+    {
+        "name": "Suppliers",
+        "link": "/suppliers",
+        "icon": "suppliers",
+        "auth": "Admin"
+    },
+    {
+        "name": "Orders",
+        "link": "/orders",
+        "icon": "orders",
+        "auth": "Admin"
+    },
+    {
+        "name": "Manage Store",
+        "link": "/manage_store",
+        "icon": "manage store",
+        "auth": "Admin"
+    }
+    ]
+}
